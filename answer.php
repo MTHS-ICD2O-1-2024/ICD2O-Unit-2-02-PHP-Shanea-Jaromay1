@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="description" content="The Area and Perimeter program,in PHP" />
   <meta name="keywords" content="mths, icd2o" />
-  <meta name="author" content="Ain Jeong" />
+  <meta name="author" content="Shanea Jaromay" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./css/style.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
